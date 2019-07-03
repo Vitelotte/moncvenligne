@@ -1,0 +1,165 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+
+
+.container{
+   width: 1170;
+   margin-right: auto;
+   margin-left: auto;
+   background-color: #FBFCFC;
+   font-family: 'Poppins', sans-serif;
+
+}
+
+
+.barrenoir{
+   max-width: 1170px;
+   height: 20px;
+   background-color: #120D16;
+
+}
+
+.menu .btn{
+  margin-left: 100px;
+  width: 250px;
+}
+
+.menu a:hover{
+   text-decoration: none;
+}
+
+.trait{
+height: 3px;
+max-width: 1140px;
+background-color: black;
+margin-top: 20px;
+}
+
+.paragraphe{
+   text-align: inherit;
+   margin-top: 50px;
+   font-family: 'Poppins', sans-serif;
+}
+
+.paragraphe h3{
+   text-align: left;
+   font-family: 'Poppins', sans-serif;
+   font-size: 18px;
+   text-decoration: underline;
+}
+
+.connaissance{
+   margin-top: 40px;
+   margin-bottom: 10px;
+}
+
+.competence .carouselslide{
+   text-align: center;
+   height: 200px;
+   width: 200px;
+
+}
+
+.ajout .shopnow{
+   margin-top: 50px;
+   width: 500px;
+}
+
+.photo{
+   height: 430px;
+   width: 287;
+   margin-top: 50px;
+   margin-left: 100px;
+   background-image: url(image/moi.jpg);
+   border-radius: 10px;
+}
+
+.photo2{
+   height: 100px;
+   width: 100px;
+   margin-top: 20px;
+   margin-left: 90px;
+   background-image: url(image/wowo.png);
+   border-radius: 10px;
+   float: left;
+}
+
+.photo3{
+   height: 100px;
+   width: 100px;
+   margin-top: 20px;
+   margin-left: 10px;
+   background-image: url(image/livre.png);
+   border-radius: 10px;
+   float: left;
+}
+
+.photo4{
+   height: 100px;
+   width: 100px;
+   margin-top: 20px;
+   margin-left: 10px;
+   background-image: url(image/Yoga.png);
+   border-radius: 10px;
+   float: left;
+}
+
+.accordion{
+   margin-top: 80px;
+}
+
+.accordion .proposdelamarque{
+   color: red;
+}
+
+.moi p{
+   text-align: justify;
+}
+
+.accordion .descriproduit{
+   color: red;
+}
+
+.des ul{
+   list-style: none;
+   text-align: justify;
+}
+
+.accordion .fichtech{
+   color: red;
+}
+
+.tech ul{
+   list-style: none;
+   text-align: justify;
+}
+
+.contact ul{
+   list-style: none;
+   text-align: justify;
+}
+
+.footer{
+   height: 90px;
+   width: 1140px;
+   background-color: #120D16;
+}
+
+.linkedin{
+   text-align: center;
+   margin-top: 22px;
+}
+
+.instagram{
+   text-align: center;
+   margin-top: 22px;
+}
+
+.github{
+   text-align: center;
+   margin-top: 22px;
+}
