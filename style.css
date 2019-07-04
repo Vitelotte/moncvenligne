@@ -30,8 +30,9 @@
   width: 250px;
 }
 
-.menu{
+.menu .btn:hover a{
    text-decoration: none;
+   color: #0000;
 }
 
 .trait{
